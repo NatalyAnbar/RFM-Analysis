@@ -1,3 +1,4 @@
+                                                                                     Customer Behavior, Events & RFM Analysis
 📌 Project Objective
 This project analyzes customer behavior, event performance, A/B testing results, and RFM‑based customer value using a four‑page interactive Power BI report and a dedicated dashboard published on Power BI Service.
 It answers key questions such as why traffic increases without a matching rise in revenue, what drives high‑value customers into the At‑Risk segment, and which channels and payment methods influence their purchasing decisions.
