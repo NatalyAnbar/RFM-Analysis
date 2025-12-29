@@ -72,6 +72,7 @@ Removed less than 5% negative sales amounts.
 •	Branches Table:
 
 No major issues detected.
+
 All transformations and calculated fields are available inside the PBIX file.
 
 
