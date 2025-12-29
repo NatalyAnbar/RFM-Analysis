@@ -109,36 +109,41 @@ Around 70% of At‑Risk customers use Instant Payment, making it essential to ke
 Google Ads, Instagram Ads, and Shopify generate slightly higher revenue from this segment, indicating strong reactivation potential.
 
 
+
 📌 Key Insights
 
-•	Event traffic increases do not translate into proportional revenue.
+•	Event driven traffic surges generate strong engagement but do not translate into proportional revenue, indicating friction in the conversion funnel.
 
-•	A/B test variations show no improvement over the control group.
+•	A/B test variations show no measurable uplift over the control group, suggesting issues in test design or insufficient differentiation.
 
-•	At‑Risk customers are high‑value and similar to VIPs in spending behavior.
+•	At Risk customers represent only 16% of the customer base yet generate the highest revenue—exceeding the Need Development segment (52% of customers) by nearly 9M. This highlights a critical value imbalance and a major retention risk.
 
-•	Age is the main demographic driver of churn risk.
+•	At Risk customers exhibit spending patterns similar to VIPs, making them a disproportionately valuable segment despite their smaller size.
 
-•	Instant Payment is the preferred method for valuable customers.
+•	Age is the strongest demographic predictor of churn, with Retirees and Gen X showing the highest vulnerability.
 
-•	Google Ads, Instagram Ads, and Shopify are the strongest channels for At‑Risk engagement.
+•	Instant Payment is the preferred method among high value customers and correlates with higher order frequency and basket size.
+
+•	Google Ads, Instagram Ads, and Shopify consistently deliver stronger engagement and revenue contribution from At Risk customers compared to other channels.
 
 
-📌 Recommendations 
+
+📌 Recommendations
 
 •	Improve event conversion performance by optimizing landing pages, checkout flow, and product availability to better capture the high traffic generated during events.
 
-•	Redesign and rebalance A/B test groups to ensure fair distribution and more reliable evaluation of variation performance.
+•	Redesign A/B test structures to ensure balanced group distribution, clearer variation differences, and more statistically reliable outcomes.
 
-•	Prioritize retention strategies for At‑Risk customers, as they demonstrate high spending behavior similar to VIPs and represent a critical value segment.
+•	Prioritize retention strategies for the At Risk segment, as this group—despite being only 16% of the customer base—drives the highest revenue and outperforms the much larger Need Development segment by approximately 9M.
 
-•	Develop age‑targeted campaigns tailored to Retirees and Gen X, who form a significant portion of the At‑Risk group and show distinct engagement patterns.
+•	Develop age targeted engagement strategies tailored to Retirees and Gen X, addressing their unique behavioral patterns and churn drivers.
 
-•	Launch seasonal reactivation campaigns during May and August, aligning with the strongest historical spending periods for At‑Risk customers.
+•	Launch seasonal reactivation campaigns during May and August, aligning with historically strong spending periods for At Risk customers.
 
-•	Maintain full availability of Instant Payment across all platforms, supporting the preferred payment behavior of high‑value customers.
+•	Ensure full availability of Instant Payment across all platforms to support the preferred payment behavior of high value segments.
 
-•	Increase marketing investment in Google Ads, Instagram Ads, and Shopify, which consistently show stronger engagement and revenue contribution from At‑Risk customers.
+•	Increase investment in high performing channels such as Google Ads, Instagram Ads, and Shopify to maximize reach and revenue impact among At Risk customers.
+
 
 
 📌 Project Files
