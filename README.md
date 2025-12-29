@@ -55,11 +55,15 @@ Filled missing EndDate values using a consistent yearly pattern (Jan 1 → Dec 3
 
 •	Customer Table:
 
-Removed ~2% missing gender values.
-Corrected extreme age outliers (–10, 150) using mean replacement.
-Converted negative TotalSpent values to positive.
-Replaced inconsistent TotalTransactions values (zeros with non‑zero spending).
-Fixed ~300 invalid country/city entries using BranchName.
+- Removed ~2% missing gender values.
+
+- Corrected extreme age outliers (–10, 150) using mean replacement.
+
+- Converted negative TotalSpent values to positive.
+
+- Replaced inconsistent TotalTransactions values (zeros with non‑zero spending).
+
+- Fixed ~300 invalid country/city entries using BranchName.
 
 •	Transactions Table: 
 
