@@ -51,7 +51,8 @@ Key fixes included:
 
 •	Ad History Table: 
 
-Filled missing EndDate values using a consistent yearly pattern (Jan 1 → Dec 31).
+Filled missing EndDate values by applying the same yearly pattern observed in the existing data (Jan 1 → Dec 31), 
+since all non‑missing records in this table consistently follow this start‑to‑end structure.
 
 •	Customer Table:
 
